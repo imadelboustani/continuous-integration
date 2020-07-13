@@ -52,3 +52,11 @@ Build configuration settings include:
  ### 2- unit test
    we confihure teamcity to execute powershell tests using pester to verify if the service is installed 
  > Pester is a Behavior-Driven Development (BDD) based test runner and mocking framework for PowerShell.
+ 
+ TeamCity don't comme with built in support for pester tests so we should to configure it so the pester 
+ powershell scripts are considered as unit tests in TeamCity to acheive that we use two Build Feature in Teamcity 
+ 
+ >  A build feature is a piece of functionality that can be added to a build configuration to affect running builds or reporting build results. The Build Configuration Settings | Build Features page displays the configured features and allows you to manage them.
+ 
+#### 2.1-  Build Feature – Test Results
+
