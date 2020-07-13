@@ -59,4 +59,5 @@ Build configuration settings include:
  >  A build feature is a piece of functionality that can be added to a build configuration to affect running builds or reporting build results. The Build Configuration Settings | Build Features page displays the configured features and allows you to manage them.
  
 #### 2.1-  Build Feature – Test Results
+![image](https://user-images.githubusercontent.com/38638726/87338439-7be14e80-c545-11ea-808b-4e94307b9985.png)
 
