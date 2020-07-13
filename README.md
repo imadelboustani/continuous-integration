@@ -47,3 +47,8 @@ Build configuration settings include:
  
  #### 1-  Install Telegraf 
    to run powershell script to install telegraf service in windows 
+   
+   
+ ### 2- unit test
+   we confihure teamcity to execute powershell tests using pester to verify if the service is installed 
+ > Pester is a Behavior-Driven Development (BDD) based test runner and mocking framework for PowerShell.
