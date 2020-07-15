@@ -65,5 +65,6 @@ Build configuration settings include:
 Pester can output a test report if we tell it to do. In TeamCity we can make use of this report to give us some extra information. Here’s how we
 Add a build feature (XML report processing) and configure it to match our setup.
 
-#### 2.2-  Build Feature – Test Results
+#### 2.2- Build Feature – Swabra
+>  Swabra is a bundled plugin allowing you to clean files created during the build.
 
