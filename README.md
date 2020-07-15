@@ -71,4 +71,8 @@ Add a build feature (XML report processing) and configure it to match our setup.
 
 
 Since Pester will add a test result file this will make sure that such a file is removed before we start a new build.
+#### 2.2- Execute Pester
+now it’s time to get those unit tests running
+![image](https://user-images.githubusercontent.com/38638726/87566281-14510d80-c6c3-11ea-925c-b3209220f6a9.png)
+i set the working directory to where my tests are. Next, we invoke Pester:
 
