@@ -65,7 +65,5 @@ Build configuration settings include:
 Pester can output a test report if we tell it to do. In TeamCity we can make use of this report to give us some extra information. Here’s how we
 Add a build feature (XML report processing) and configure it to match our setup.
 
-note: if you use the pester.bat file included with Pester the file will be named Test.xml in the same directory as your tests. (image above reflects that)
-
 #### 2.2-  Build Feature – Test Results
 
