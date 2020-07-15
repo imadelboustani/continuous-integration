@@ -67,4 +67,8 @@ Add a build feature (XML report processing) and configure it to match our setup.
 
 #### 2.2- Build Feature – Swabra
 >  Swabra is a bundled plugin allowing you to clean files created during the build.
+![image](https://user-images.githubusercontent.com/38638726/87564994-5b3e0380-c6c1-11ea-8250-d85e8d2e719f.png)
+
+
+Since Pester will add a test result file this will make sure that such a file is removed before we start a new build.
 
