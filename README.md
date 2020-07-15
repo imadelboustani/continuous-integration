@@ -45,7 +45,7 @@ Build configuration settings include:
 
  ## Build Steps 
  
- #### 1-  Install Telegraf 
+ ### 1-  Install Telegraf 
    to run powershell script to install telegraf service in windows 
    
    
