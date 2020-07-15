@@ -76,7 +76,10 @@ now it’s time to get those unit tests running
 ![image](https://user-images.githubusercontent.com/38638726/87566281-14510d80-c6c3-11ea-925c-b3209220f6a9.png)
 i set the working directory to where my tests are. Next, we invoke Pester:
 
- ### 2- packaging
+ ### 3- packaging
  we add octopus deploy integration plugin to our project, which make it easy to handle the integration with octopus 
  ![image](https://user-images.githubusercontent.com/38638726/87569364-4ebca980-c6c7-11ea-9b23-c1c4d6428bf7.png)
+ 
+ ### 4- pushing to octopus 
+ ![image](https://user-images.githubusercontent.com/38638726/87569666-c4287a00-c6c7-11ea-9e39-8d17935dfe71.png)
 
